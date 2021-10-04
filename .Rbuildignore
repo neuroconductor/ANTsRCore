@@ -31,3 +31,4 @@ zzz_Comparison2\.R
 ^autoci\.yml$
 ^autoci_pkgdown\.yml$
 ^tic\.R$
+^\./tic\.R\.bak$
